@@ -5,7 +5,7 @@
 
 This is a 3D on-lattice agent-based model of human colorectal cancer liver metastases that has been calibrated with clinical data. It includes tumor cells, lymphocytes, macrophages, stroma and necrosis.
 
-![3D visualization](preview.png "3D visualization"){ width: 50%; }
+![3D visualization](preview.png "3D visualization")
 
 The code will be explained in detail in a scientific publication. It is based on our previous publication:
 
