@@ -13,9 +13,10 @@ Kather JN, Poleszczuk J, Suarez-Carmona M, Krisam J, Charoentong P, Valous NA, e
 
 Please cite these papers if you re-use the code. 
 
-## Compilation
+## How to run / compile
 
 The model engine was developed by Jan Poleszczuk and is implemented in C++. Via MEX, this can be used by the high-level Matlab functions. We provide a compiled version that can be used on a Windows machine (Windows 10). If you use another operating system, you can compile the code with the scripts provided in ./SIMengine. This requires SuiteSparse which is available at https://github.com/jlblancoc/suitesparse-metis-for-windows/
+Furthermore, compilation of the code requires Eigen which is available here: http://eigen.tuxfamily.org/
 
 ## Licenses
 
